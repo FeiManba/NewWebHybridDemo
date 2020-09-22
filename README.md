@@ -1,6 +1,6 @@
 # #Android WebView 加载H5网页 全屏幕播放视频
 ---
-![在这里插入图片描述](<image src='./screen/20200921174853114.gif'>) 
+![](<image src='./screen/20200921174853114.gif'/>) 
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
